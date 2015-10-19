@@ -34,4 +34,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+    <scm>
+        <connection>scm:git:file:///home-reseau/nromdhan/VVT/TP1</connection>
+    </scm>
 </project>
